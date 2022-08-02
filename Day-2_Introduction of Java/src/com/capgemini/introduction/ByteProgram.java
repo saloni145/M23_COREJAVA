@@ -1,10 +1,11 @@
 package com.capgemini.introduction;
-
-public class ByteProgramm {
+//program for byte data type
+public class ByteProgram {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
          byte a = 127;
+         //byte a=29
+         //it will give an error because of byte range
          System.out.println(a);
 	}
 
