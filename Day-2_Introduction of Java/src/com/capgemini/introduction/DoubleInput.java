@@ -10,7 +10,8 @@ public class DoubleInput {
 		System.out.println("Enter the value of x: ");
 		double x=s.nextDouble();
 		System.out.println(x);
-
+		
+ 
 	}
 
 }
